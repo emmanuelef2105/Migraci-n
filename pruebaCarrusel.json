@@ -1,5 +1,5 @@
 {
-  "dialog_node": [
+  "dialog_nodes": [
     {
       "type": "standard",
       "title": "aaa",
@@ -26,6 +26,7 @@
         ],
         "json_response": [
           {
+            
             "type": "Carousel",
             "slides": [
               {

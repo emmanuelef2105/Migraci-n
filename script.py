@@ -26,10 +26,10 @@ def migrar_contenido_web(dialogo):
                     if content:  # Verifica si la lista tiene elementos
                         nuevo_contenido.append({
                             "cuerpo": [
-                                {"cuerpo": slide.get("titulo", ""), "etiqueta": "h4"},
-                                {"cuerpo": content[0]}  # Ahora es seguro acceder al primer elemento
+                                {"cuerpo": slide.get("titulo", title), "etiqueta": "h4"},
+                                f"{content[0]}"  # Ahora es seguro acceder al primer elemento
                             ],
-                            "contenedor": "carrusel"
+                            "etiqueta": "div",
                         })
             elif tipo == "Images":
                 for url in item.get("images", []):
