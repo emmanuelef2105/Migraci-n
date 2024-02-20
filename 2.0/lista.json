@@ -1,0 +1,235 @@
+[
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el titulo de la primera tarjeta de la lista-carruselEste es el ejemplo de un nodo tipo lista-carrusel 2.0 y esta sería la primera tarjeta de la lista-carrusel., Este es el titulo de la segunda tarjeta de la lista-carruselEste es el ejemplo de un nodo tipo lista 2.0 y esta sería la segunda tarjeta de la lista-carrusel, Este es el titulo de la tercera tarjeta de la lista-carruselEste es el ejemplo de un nodo tipo lista 2.0 y esta sería la tercera tarjeta de la lista-carrusel."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la primera tarjeta de la lista-carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo lista-carrusel 2.0 y esta sería la primera tarjeta de la lista-carrusel."
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la segunda tarjeta de la lista-carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo lista 2.0 y esta sería la segunda tarjeta de la lista-carrusel"
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la tercera tarjeta de la lista-carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo lista 2.0 y esta sería la tercera tarjeta de la lista-carrusel"
+              ],
+              "etiqueta": "div"
+            }
+          ],
+          "contenedor": "carrusel"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el titulo de la primer tarjeta de la lista-carruselEste es el ejemplo de un nodo tipo lista 2.0 y esta sería la primera tarjeta de la lista-carrusel., Este es el titulo de la segunda tarjeta de la lista-carruselEste es el ejemplo de un nodo tipo lista 2.0 y esta sería la segunda tarjeta de la lista-carrusel, Este es el titulo de la tercera tarjeta de la lista-carruselEste es el ejemplo de un nodo tipo lista 2.0 y esta sería la tercera tarjeta de la lista-carrusel."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la primer tarjeta de la lista-carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo lista 2.0 y esta sería la primera tarjeta de la lista-carrusel."
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la segunda tarjeta de la lista-carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo lista 2.0 y esta sería la segunda tarjeta de la lista-carrusel"
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la tercera tarjeta de la lista-carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo lista 2.0 y esta sería la tercera tarjeta de la lista-carrusel"
+              ],
+              "etiqueta": "div"
+            }
+          ],
+          "contenedor": "carrusel"
+        },
+        {
+          "cuerpo": [
+            {
+              "title": "",
+              "cuerpo": "Este es el texto que muestra el botón"
+            },
+            {
+              "title": "",
+              "cuerpo": "Este es el texto que muestra el segundo botón"
+            }
+          ],
+          "contenedor": "opciones"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el titulo de la primer tarjeta de la lista-carruselEste es el ejemplo de un nodo tipo lista 2.0 y esta sería la primera tarjeta de la lista-carrusel, Este es el titulo de la segunda tarjeta de la lista-carruselEste es el ejemplo de un nodo tipo lista 2.0 y esta sería la segunda tarjeta de la lista-carrusel, .Este es el ejemplo de un nodo tipo lista 2.0 y esta sería la primera tercer de la lista-carrusel y además, no tiene título."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la primer tarjeta de la lista-carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo lista 2.0 y esta sería la primera tarjeta de la lista-carrusel"
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la segunda tarjeta de la lista-carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo lista 2.0 y esta sería la segunda tarjeta de la lista-carrusel"
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo lista 2.0 y esta sería la primera tercer de la lista-carrusel y además, no tiene título"
+              ],
+              "etiqueta": "div"
+            }
+          ],
+          "contenedor": "carrusel"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el titulo de la primera tarjeta de la lista-carruselEste es el ejemplo de un nodo tipo lista 2.0 y esta sería la primera tarjeta de la lista-carrusel y contiene estilos como<strong> Negrita.</strong>, Este es el titulo de la segunda tarjeta de la lista-carruselEste es el ejemplo de un nodo tipo lista 2.0 y esta sería la segunda tarjeta de la lista-carrusel, Este es el titulo de la tercer tarjeta de la lista-carruselEste es el ejemplo de un nodo tipo lista 2.0 y esta sería la tercera tarjeta de la lista-carrusel y también contiene estilos de texto, esta vez es un <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"www.google.com\">enlace</a>."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la primera tarjeta de la lista-carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo lista 2.0 y esta sería la primera tarjeta de la lista-carrusel y contiene estilos como",
+                {
+                  "cuerpo": [" Negrita."],
+                  "etiqueta": "b"
+                }
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la segunda tarjeta de la lista-carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo lista 2.0 y esta sería la segunda tarjeta de la lista-carrusel"
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la tercer tarjeta de la lista-carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo lista 2.0 y esta sería la tercera tarjeta de la lista-carrusel y también contiene estilos de texto, esta vez es un ",
+                {
+                  "cuerpo": ["enlace"],
+                  "etiqueta": "a",
+                  "atributos": {
+                    "href": "www.google.com",
+                    "target": "_blank"
+                  }
+                }
+              ],
+              "etiqueta": "div"
+            }
+          ],
+          "contenedor": "carrusel"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": ""
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "etiqueta": "iframe",
+              "atributos": {
+                "src": "https://www.youtube.com/embed/https://www.youtube.com/watch?v=M3_Po9Ehx7s&ab_channel=Auron",
+                "frameborder": "0",
+                "allowfullscreen": "true"
+              }
+            },
+            {
+              "cuerpo": "",
+              "etiqueta": "span"
+            }
+          ],
+          "contenedor": "normal"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el ejemplo de un nodo tipo video 2.0 que además contiene texto"
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "etiqueta": "iframe",
+              "atributos": {
+                "src": "https://www.youtube.com/embed/https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=M3_Po9Ehx7s&ab_channel=Auron",
+                "frameborder": "0",
+                "allowfullscreen": "true"
+              }
+            },
+            {
+              "cuerpo": "Este es el ejemplo de un nodo tipo video 2.0 que además contiene texto",
+              "etiqueta": "span"
+            }
+          ],
+          "contenedor": "normal"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": ""
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "etiqueta": "iframe",
+              "atributos": {
+                "src": "https://www.youtube.com/embed/https://www.youtube.com/watch?v=M3_Po9Ehx7s&ab_channel=Auron",
+                "frameborder": "0",
+                "allowfullscreen": "true"
+              }
+            },
+            {
+              "cuerpo": "",
+              "etiqueta": "span"
+            }
+          ],
+          "contenedor": "normal"
+        },
+        {
+          "cuerpo": [
+            {
+              "title": "",
+              "cuerpo": "Este es el mensaje que envía el botón"
+            },
+            {
+              "title": "",
+              "cuerpo": "Este es el texto que muestra el segundo botón"
+            }
+          ],
+          "contenedor": "opciones"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el ejemplo de un nodo tipo video 2.0 que además contiene texto y botones"
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "etiqueta": "iframe",
+              "atributos": {
+                "src": "https://www.youtube.com/embed/https://www.youtube.com/watch?v=M3_Po9Ehx7s&ab_channel=Auron",
+                "frameborder": "0",
+                "allowfullscreen": "true"
+              }
+            },
+            {
+              "cuerpo": "Este es el ejemplo de un nodo tipo video 2.0 que además contiene texto y botones",
+              "etiqueta": "span"
+            }
+          ],
+          "contenedor": "normal"
+        },
+        {
+          "cuerpo": [
+            {
+              "title": "",
+              "cuerpo": "Este es el texto que muestra el botón"
+            },
+            {
+              "title": "",
+              "cuerpo": "Este es el texto que muestra el segundo botón"
+            }
+          ],
+          "contenedor": "opciones"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  }
+]

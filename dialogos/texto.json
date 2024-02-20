@@ -1,0 +1,247 @@
+[
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "json_response": [
+        {
+          "side": "left",
+          "type": "Normal",
+          "messages": [
+            {
+              "text": [
+                "Este es el ejemplo de un nodo tipo texto 1.0"
+              ]
+            }
+          ]
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "buttons": [
+        {
+          "text": "Este es el texto que muestra el botón",
+          "message": "Este es el mensaje que envía el botón"
+        },
+        {
+          "text": "Este es el texto que muestra el segundo botón",
+          "message": "Este es el mensaje que envía el segundo botón"
+        }
+      ],
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "json_response": [
+        {
+          "side": "left",
+          "type": "Normal",
+          "messages": [
+            {
+              "text": [
+                "Este es un ejemplo de un nodo tipo Texto 1.0 que contiene botones."
+              ]
+            }
+          ]
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "json_response": [
+        {
+          "side": "left",
+          "type": "Normal",
+          "messages": [
+            {
+              "text": [
+                "Este es un nodo tipo texto 1.0, cuyo texto contiene estilos tales como",
+                {
+                  "tag": "b",
+                  "content": [
+                    " Negrita"
+                  ]
+                },
+                ",",
+                {
+                  "tag": "i",
+                  "content": [
+                    " Itálica"
+                  ]
+                },
+                ",",
+                {
+                  "tag": "del",
+                  "content": [
+                    " tachado"
+                  ]
+                },
+                ", ",
+                {
+                  "tag": "ins",
+                  "content": [
+                    "Subrayado"
+                  ]
+                },
+                " y por último ",
+                {
+                  "tag": "a",
+                  "href": "www.google.com",
+                  "text": [
+                    "enlace"
+                  ],
+                  "target": "_blank"
+                },
+                "."
+              ]
+            }
+          ]
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "json_response": [
+        {
+          "side": "left",
+          "type": "Normal",
+          "messages": [
+            {
+              "text": [
+                "Este es un ejemplo de un nodo tipo texto 1.0 que puede contener varios ítems listados",
+                {
+                  "tag": "ul",
+                  "content": [
+                    "este sería el primer ítem",
+                    "este sería el segundo",
+                    "y puede haber todos los ítems que sean necesarios"
+                  ]
+                },
+                "y luego puede haber más texto común y más?"
+              ]
+            }
+          ]
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "json_response": [
+        {
+          "side": "left",
+          "type": "Normal",
+          "messages": [
+            {
+              "text": [
+                "Este es el ejemplo de un nodo tipo texto 1.0 que contiene saltos de línea<br>esto es un salto línea<br><br>ahora esto son dos saltos de línea."
+              ]
+            }
+          ]
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "json_response": [
+        {
+          "side": "left",
+          "type": "Normal",
+          "messages": [
+            {
+              "text": [
+                "Este es el ejemplo de un nodo tipo texto 1.0 que contiene todos los ejemplos mencionados anteriormente",
+                {
+                  "tag": "ul",
+                  "content": [
+                    "Esto sería el primer ítem y además contiene un estilo de texto tipo Negrita.",
+                    "Esto sería el segundo ítem y contiene un enlace."
+                  ]
+                },
+                "Ahora esto es la continuación del texto común<br>Esto es un salto de línea y como podrás ver, agregué un estilo de texto tipo",
+                {
+                  "tag": "i",
+                  "content": [
+                    " Itálica."
+                  ]
+                },
+                "<br><br>Aquí hay dos saltos de línea y agregué un estilo de texto ",
+                {
+                  "tag": "ins",
+                  "content": [
+                    "Subrayado."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  }
+]

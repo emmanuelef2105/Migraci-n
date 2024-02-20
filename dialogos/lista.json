@@ -1,0 +1,183 @@
+[
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el titulo de la primera tarjeta de la lista<p>Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la primera tarjeta de la lista</p>, Este es el titulo de la segunda tarjeta de la lista<p>Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la segunda tarjeta de la lista</p>, Este es el titulo de la tercera tarjeta de la lista<p>Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la tercera tarjeta de la lista</p>."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "json_response": [
+        {
+          "list": [
+            {
+              "title": "Este es el titulo de la primera tarjeta de la lista",
+              "content": [
+                "Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la primera tarjeta de la lista"
+              ]
+            },
+            {
+              "title": "Este es el titulo de la segunda tarjeta de la lista",
+              "content": [
+                "Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la segunda tarjeta de la lista"
+              ]
+            },
+            {
+              "title": "Este es el titulo de la tercera tarjeta de la lista",
+              "content": [
+                "Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la tercera tarjeta de la lista"
+              ]
+            }
+          ],
+          "type": "CardList"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "buttons": [
+        {
+          "text": "Este es el texto que muestra el botón",
+          "message": "Este es el mensaje que envía el botón"
+        },
+        {
+          "text": "Este es el texto que muestra el segundo botón",
+          "message": "Este es el mensaje que envía el segundo botón"
+        }
+      ],
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el titulo de la primer tarjeta de la lista<p>Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la primera tarjeta de la lista</p>, Este es el titulo de la segunda tarjeta de la lista<p>Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la segunda tarjeta de la lista</p>, Este es el titulo de la tercera tarjeta de la lista<p>Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la tercera tarjeta de la lista</p>."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "json_response": [
+        {
+          "list": [
+            {
+              "title": "Este es el titulo de la primer tarjeta de la lista",
+              "content": [
+                "Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la primera tarjeta de la lista"
+              ]
+            },
+            {
+              "title": "Este es el titulo de la segunda tarjeta de la lista",
+              "content": [
+                "Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la segunda tarjeta de la lista"
+              ]
+            },
+            {
+              "title": "Este es el titulo de la tercera tarjeta de la lista",
+              "content": [
+                "Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la tercera tarjeta de la lista"
+              ]
+            }
+          ],
+          "type": "CardList"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el titulo de la primer tarjeta de la lista<p>Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la primera tarjeta de la lista</p>, Este es el titulo de la segunda tarjeta de la lista<p>Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la segunda tarjeta de la lista</p>, <p>Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la primera tercer de la lista y además, no tiene título</p>."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "json_response": [
+        {
+          "list": [
+            {
+              "title": "Este es el titulo de la primer tarjeta de la lista",
+              "content": [
+                "Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la primera tarjeta de la lista"
+              ]
+            },
+            {
+              "title": "Este es el titulo de la segunda tarjeta de la lista",
+              "content": [
+                "Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la segunda tarjeta de la lista"
+              ]
+            },
+            {
+              "title": "",
+              "content": [
+                "Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la primera tercer de la lista y además, no tiene título"
+              ]
+            }
+          ],
+          "type": "CardList"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el titulo de la primera tarjeta de la lista<p>Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la primera tarjeta de la lista y contiene estilos como<strong> Negrita.</strong></p>, Este es el titulo de la segunda tarjeta de la lista<p>Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la segunda tarjeta de la lista</p>, Este es el titulo de la tercer tarjeta de la lista<p>Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la tercera tarjeta de la lista y también contiene estilos de texto, esta vez es un <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"www.google.com\">enlace</a>&nbsp;</p>."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "json_response": [
+        {
+          "list": [
+            {
+              "title": "Este es el titulo de la primera tarjeta de la lista",
+              "content": [
+                "Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la primera tarjeta de la lista y contiene estilos como",
+                {
+                  "tag": "b",
+                  "content": [" Negrita."]
+                }
+              ]
+            },
+            {
+              "title": "Este es el titulo de la segunda tarjeta de la lista",
+              "content": [
+                "Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la segunda tarjeta de la lista"
+              ]
+            },
+            {
+              "title": "Este es el titulo de la tercer tarjeta de la lista",
+              "content": [
+                "Este es el ejemplo de un nodo tipo lista 1.0 y esta sería la tercera tarjeta de la lista y también contiene estilos de texto, esta vez es un ",
+                {
+                  "tag": "a",
+                  "href": "www.google.com",
+                  "text": ["enlace"],
+                  "target": "_blank"
+                },
+                "&nbsp;"
+              ]
+            }
+          ],
+          "type": "CardList"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  }
+]

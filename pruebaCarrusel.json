@@ -1,0 +1,65 @@
+{
+  "dialog_node": [
+    {
+      "type": "standard",
+      "title": "aaa",
+      "output": {
+        "buttons": [
+          {
+            "text": "Este es el texto que muestra el botón",
+            "message": "Este es el mensaje que envía el botón"
+          },
+          {
+            "text": "Este es el texto que muestra el segundo botón",
+            "message": "Este es el mensaje que envía el segundo botón"
+          }
+        ],
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Este es el titulo de la primera tarjeta del carruselEste es el ejemplo de un nodo tipo carrusel 1.0 y esta sería la primera tarjeta del carrusel, Este es el titulo de la segunda tarjeta del carruselEste es el ejemplo de un nodo tipo carrusel 1.0 y esta sería la segunda tarjeta del carrusel, Este es el titulo de la tercera tarjeta del carruselEste es el ejemplo de un nodo tipo carrusel 1.0 y esta sería la tercera tarjeta del carrusel."
+              }
+            ],
+            "response_type": "text"
+          }
+        ],
+        "json_response": [
+          {
+            "type": "Carousel",
+            "slides": [
+              {
+                "title": "Este es el titulo de la primera tarjeta del carrusel",
+                "content": [
+                  "Este es el ejemplo de un nodo tipo carrusel 1.0 y esta sería la primera tarjeta del carrusel"
+                ]
+              },
+              {
+                "title": "Este es el titulo de la segunda tarjeta del carrusel",
+                "content": [
+                  "Este es el ejemplo de un nodo tipo carrusel 1.0 y esta sería la segunda tarjeta del carrusel"
+                ]
+              },
+              {
+                "title": "Este es el titulo de la tercera tarjeta del carrusel",
+                "content": [
+                  "Este es el ejemplo de un nodo tipo carrusel 1.0 y esta sería la tercera tarjeta del carrusel"
+                ]
+              }
+            ]
+          }
+        ],
+        "simpleTextResponse": {
+          "text": {
+            "body": "Este es un ejemplo de un diálogo para WhatsApp con estructura 1.0 que solo contiene texto, además, algunos estilos como *Negrita*, _Itálica_, y ~tachado~."
+          },
+          "tipoMensaje": "text"
+        }
+      },
+      "parent": "node_2_1698765968175",
+      "conditions": "#aawhatsapp && false",
+      "dialog_node": "AAA",
+      "previous_sibling": "TEST VIDEO 2"
+    }
+  ]
+}

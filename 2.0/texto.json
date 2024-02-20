@@ -1,0 +1,271 @@
+[
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "cuerpo": "Este es el ejemplo de un nodo tipo texto 2.0",
+              "etiqueta": "span"
+            }
+          ],
+          "contenedor": "Normal"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "cuerpo": "Este es un ejemplo de un nodo tipo Texto 2.0 que contiene botones.",
+              "etiqueta": "span"
+            }
+          ],
+          "contenedor": "Normal"
+        },
+        {
+          "cuerpo": [
+            {
+              "title": "Este es el texto que muestra el botón",
+              "cuerpo": "Este es el mensaje que envía el botón"
+            },
+            {
+              "title": "Este es el texto que muestra el segundo botón",
+              "cuerpo": "Este es el mensaje que envía el segundo botón"
+            }
+          ],
+          "contenedor": "opciones"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "cuerpo": "Este es un nodo tipo texto 2.0, cuyo texto contiene estilos tales como",
+              "etiqueta": "span"
+            },
+            {
+              "cuerpo": [" Negrita"],
+              "etiqueta": "b"
+            },
+            {
+              "cuerpo": ",",
+              "etiqueta": "span"
+            },
+            {
+              "cuerpo": [" Itálica"],
+              "etiqueta": "i"
+            },
+            {
+              "cuerpo": ",",
+              "etiqueta": "span"
+            },
+            {
+              "cuerpo": [" tachado"],
+              "etiqueta": "del"
+            },
+            {
+              "cuerpo": ", ",
+              "etiqueta": "span"
+            },
+            {
+              "cuerpo": ["Subrayado"],
+              "etiqueta": "ins"
+            },
+            {
+              "cuerpo": " y por último ",
+              "etiqueta": "span"
+            },
+            {
+              "cuerpo": ["enlace"],
+              "etiqueta": "a",
+              "atributos": {
+                "href": "www.google.com",
+                "target": "_blank"
+              }
+            },
+            {
+              "cuerpo": ".",
+              "etiqueta": "span"
+            }
+          ],
+          "contenedor": "Normal"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "cuerpo": "Este es un ejemplo de un nodo tipo texto 2.0 que puede contener varios ítems listados",
+              "etiqueta": "span"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": ["este sería el primer ítem"],
+                  "etiqueta": "li"
+                },
+                {
+                  "cuerpo": ["este sería el segundo"],
+                  "etiqueta": "li"
+                },
+                {
+                  "cuerpo": [
+                    "y puede haber todos los ítems que sean necesarios"
+                  ],
+                  "etiqueta": "li"
+                }
+              ],
+              "etiqueta": "ul"
+            },
+            {
+              "cuerpo": "y luego puede haber más texto común y más?",
+              "etiqueta": "span"
+            }
+          ],
+          "contenedor": "Normal"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "cuerpo": "Este es el ejemplo de un nodo tipo texto 2.0 que contiene saltos de línea<br>Esto es un salto línea<br><br>Ahorra esto son dos saltos de línea.",
+              "etiqueta": "span"
+            }
+          ],
+          "contenedor": "Normal"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "cuerpo": "Este es el ejemplo de un nodo tipo texto 2.0 que contiene todos los ejemplos mencionados anteriormente",
+              "etiqueta": "span"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": [
+                    "Esto sería el primer ítem y además contiene un estilo de texto tipo Negrita."
+                  ],
+                  "etiqueta": "li"
+                },
+                {
+                  "cuerpo": [
+                    "Esto sería el segundo ítem y contiene un enlace."
+                  ],
+                  "etiqueta": "li"
+                }
+              ],
+              "etiqueta": "ul"
+            },
+            {
+              "cuerpo": "Ahora esto es la continuación del texto común<br>Esto es un salto de línea y como podrás ver, agregué un estilo de texto tipo",
+              "etiqueta": "span"
+            },
+            {
+              "cuerpo": [" Itálica."],
+              "etiqueta": "i"
+            },
+            {
+              "cuerpo": "<br><br>Aquí hay dos saltos de línea y agregué un estilo de texto ",
+              "etiqueta": "span"
+            },
+            {
+              "cuerpo": ["Subrayado."],
+              "etiqueta": "ins"
+            }
+          ],
+          "contenedor": "Normal"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  }
+]

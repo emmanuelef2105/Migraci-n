@@ -1,0 +1,154 @@
+[
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": ""
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "json_response": [
+        {
+          "type": "Youtube",
+          "videos": [
+            "https://www.youtube.com/watch?v=M3_Po9Ehx7s&ab_channel=Auron"
+          ]
+        },
+        {
+          "side": "left",
+          "type": "Normal",
+          "messages": [
+            {
+              "text": [""]
+            }
+          ]
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el ejemplo de un nodo tipo video 1.0 que además contiene texto"
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "json_response": [
+        {
+          "type": "Youtube",
+          "videos": [
+            "https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=M3_Po9Ehx7s&ab_channel=Auron"
+          ]
+        },
+        {
+          "side": "left",
+          "type": "Normal",
+          "messages": [
+            {
+              "text": [
+                "Este es el ejemplo de un nodo tipo video 1.0 que además contiene texto"
+              ]
+            }
+          ]
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "buttons": [
+        {
+          "text": "Este es el mensaje que envía el botón",
+          "message": "Este es el texto que muestra el botón"
+        },
+        {
+          "text": "Este es el texto que muestra el segundo botón",
+          "message": "Este es el texto que muestra el segundo botón"
+        }
+      ],
+      "generic": [
+        {
+          "values": [
+            {
+              "text": ""
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "json_response": [
+        {
+          "type": "Youtube",
+          "videos": [
+            "https://www.youtube.com/watch?v=M3_Po9Ehx7s&ab_channel=Auron"
+          ]
+        },
+        {
+          "side": "left",
+          "type": "Normal",
+          "messages": [
+            {
+              "text": [""]
+            }
+          ]
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "buttons": [
+        {
+          "text": "Este es el texto que muestra el botón",
+          "message": "Este es el mensaje que envía el botón"
+        },
+        {
+          "text": "Este es el texto que muestra el segundo botón",
+          "message": "Este es el mensaje que envía el segundo botón"
+        }
+      ],
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el ejemplo de un nodo tipo video 1.0 que además contiene texto y botones"
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "json_response": [
+        {
+          "type": "Youtube",
+          "videos": [
+            "https://www.youtube.com/watch?v=M3_Po9Ehx7s&ab_channel=Auron"
+          ]
+        },
+        {
+          "side": "left",
+          "type": "Normal",
+          "messages": [
+            {
+              "text": [
+                "Este es el ejemplo de un nodo tipo video 1.0 que además contiene texto y botones"
+              ]
+            }
+          ]
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  }
+]

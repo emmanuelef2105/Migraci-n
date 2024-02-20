@@ -1,0 +1,28 @@
+{
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+          ],
+          "contenedor": "Normal"
+        },
+        {
+            "cuerpo": [
+
+            ],
+            "contenedor": "opciones"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  }

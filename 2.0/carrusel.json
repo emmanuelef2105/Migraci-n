@@ -1,0 +1,249 @@
+[
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el titulo de la primera tarjeta del carruselEste es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la primera tarjeta del carrusel, Este es el titulo de la segunda tarjeta del carruselEste es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la segunda tarjeta del carrusel, Este es el titulo de la tercera tarjeta del carruselEste es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la tercera tarjeta del carrusel."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la primera tarjeta del carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la primera tarjeta del carrusel"
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la segunda tarjeta del carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la segunda tarjeta del carrusel"
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la tercera tarjeta del carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la tercera tarjeta del carrusel"
+              ],
+              "etiqueta": "div"
+            }
+          ],
+          "contenedor": "carrusel"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el titulo de la primera tarjeta del carruselEste es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la primera tarjeta del carrusel, Este es el titulo de la segunda tarjeta del carruselEste es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la segunda tarjeta del carrusel, Este es el titulo de la tercera tarjeta del carruselEste es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la tercera tarjeta del carrusel."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la primera tarjeta del carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la primera tarjeta del carrusel"
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la segunda tarjeta del carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la segunda tarjeta del carrusel"
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la tercera tarjeta del carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la tercera tarjeta del carrusel"
+              ],
+              "etiqueta": "div"
+            }
+          ],
+          "contenedor": "carrusel"
+        },
+        {
+          "cuerpo": [
+            {
+              "title": "",
+              "cuerpo": "Este es el texto que muestra el botón"
+            },
+            {
+              "title": "",
+              "cuerpo": "Este es el texto que muestra el segundo botón"
+            }
+          ],
+          "contenedor": "opciones"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el titulo de la primera tarjeta del carruselEste es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la primera tarjeta del carrusel, .Este es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la segunda tarjeta del carrusel y además no tiene un título, Este es el titulo de la tercera tarjeta del carruselEste es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la tercera tarjeta del carrusel."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la primera tarjeta del carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la primera tarjeta del carrusel"
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": ".",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la segunda tarjeta del carrusel y además no tiene un título"
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la tercera tarjeta del carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la tercera tarjeta del carrusel"
+              ],
+              "etiqueta": "div"
+            }
+          ],
+          "contenedor": "carrusel"
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Este es el titulo de la primera tarjeta del carruselEste es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la primera tarjeta del carrusel y además contiene un estilo de texto <s>tachado</s>., Este es el titulo de la segunda tarjeta del carruselEste es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la segunda tarjeta del carrusel, Este es el titulo de la tercera tarjeta del carruselEste es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la tercera tarjeta del carrusel y además contiene un texto con estilo de <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"www.google.com\">enlace</a>."
+            }
+          ],
+          "response_type": "text"
+        }
+      ],
+      "contenidoWeb": [
+        {
+          "cuerpo": [
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la primera tarjeta del carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la primera tarjeta del carrusel y además contiene un estilo de texto ",
+                {
+                  "cuerpo": ["tachado"],
+                  "etiqueta": "del"
+                },
+                "."
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la segunda tarjeta del carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la segunda tarjeta del carrusel"
+              ],
+              "etiqueta": "div"
+            },
+            {
+              "cuerpo": [
+                {
+                  "cuerpo": "Este es el titulo de la tercera tarjeta del carrusel",
+                  "etiqueta": "h4"
+                },
+                "Este es el ejemplo de un nodo tipo carrusel 2.0 y esta sería la tercera tarjeta del carrusel y además contiene un texto con estilo de ",
+                {
+                  "cuerpo": ["enlace"],
+                  "etiqueta": "a",
+                  "atributos": {
+                    "href": "www.google.com",
+                    "target": "_blank"
+                  }
+                }
+              ],
+              "etiqueta": "div"
+            }
+          ],
+          "contenedor": "carrusel"
+        },
+        {
+          "cuerpo": [
+             {
+               "title": "Este es el texto que muestra el botón en la interfaz",
+               "cuerpo": "Este es el mensaje que envía el botón internamente"
+             },
+             {
+               "title": "Este es el texto que muestra el segundo botón en la interfaz",
+               "cuerpo": "Este es el mensaje que envía el segundo botón internamente"
+             }
+           ],
+           "contenedor": "opciones"
+         }
+      ],
+      "simpleTextResponse": {}
+    }
+  }
+]

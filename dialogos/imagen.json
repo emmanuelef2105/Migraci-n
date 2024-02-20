@@ -1,0 +1,138 @@
+[
+  {
+    "output": {
+      "generic": [
+        {
+          "source": "https://cdn.quipux.com/LaboratorioDigital/CIVii/Cali/civii-cali/PYP/picoyplaca2023-2.jpeg",
+          "response_type": "image"
+        }
+      ],
+      "json_response": [
+        {
+          "type": "Images",
+          "images": [
+            "https://cdn.quipux.com/LaboratorioDigital/CIVii/Cali/civii-cali/PYP/picoyplaca2023-2.jpeg"
+          ]
+        },
+        {
+          "side": "left",
+          "type": "Normal",
+          "messages": [
+            {
+              "text": [""]
+            }
+          ]
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "generic": [
+        {
+          "source": "https://cdn.quipux.com/LaboratorioDigital/CIVii/Cali/civii-cali/PYP/picoyplaca2023-2.jpeg",
+          "response_type": "image"
+        }
+      ],
+      "json_response": [
+        {
+          "type": "Images",
+          "images": [
+            "https://cdn.quipux.com/LaboratorioDigital/CIVii/Cali/civii-cali/PYP/picoyplaca2023-2.jpeg"
+          ]
+        },
+        {
+          "side": "left",
+          "type": "Normal",
+          "messages": [
+            {
+              "text": [
+                "Este es el ejemplo de un nodo tipo imagen 1.0 que además contiene texto"
+              ]
+            }
+          ]
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "buttons": [
+        {
+          "text": "Este es el mensaje que envía el botón",
+          "message": "Este es el mensaje que envía el botón"
+        },
+        {
+          "text": "Este es el texto que muestra el segundo botón",
+          "message": "Este es el mensaje que envía el segundo botón"
+        }
+      ],
+      "generic": [
+        {
+          "source": "https://cdn.quipux.com/LaboratorioDigital/CIVii/Cali/civii-cali/PYP/picoyplaca2023-2.jpeg",
+          "response_type": "image"
+        }
+      ],
+      "json_response": [
+        {
+          "type": "Images",
+          "images": [
+            "https://cdn.quipux.com/LaboratorioDigital/CIVii/Cali/civii-cali/PYP/picoyplaca2023-2.jpeg"
+          ]
+        },
+        {
+          "side": "left",
+          "type": "Normal",
+          "messages": [
+            {
+              "text": [""]
+            }
+          ]
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  },
+  {
+    "output": {
+      "buttons": [
+        {
+          "text": "Este es el texto que muestra el botón",
+          "message": "Este es el mensaje que envía el botón"
+        },
+        {
+          "text": "Este es el texto que muestra el segundo botón",
+          "message": "Este es el mensaje que envía el segundo botón"
+        }
+      ],
+      "generic": [
+        {
+          "source": "https://cdn.quipux.com/LaboratorioDigital/CIVii/Cali/civii-cali/PYP/picoyplaca2023-2.jpeg",
+          "response_type": "image"
+        }
+      ],
+      "json_response": [
+        {
+          "type": "Images",
+          "images": [
+            "https://cdn.quipux.com/LaboratorioDigital/CIVii/Cali/civii-cali/PYP/picoyplaca2023-2.jpeg"
+          ]
+        },
+        {
+          "side": "left",
+          "type": "Normal",
+          "messages": [
+            {
+              "text": [
+                "Este es el ejemplo de un nodo tipo imagen 1.0 que además contiene texto y botones"
+              ]
+            }
+          ]
+        }
+      ],
+      "simpleTextResponse": {}
+    }
+  }
+]
